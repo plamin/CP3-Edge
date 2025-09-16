@@ -1,9 +1,9 @@
 # CP3-Edge
 ## Nome dos integrantes
 
-Brenda Thais Ribeiro dos Santos - RM: 561258
-Clara Barboza Costa - RM: 561490
-Lucas Santana Silva - RM: 566261
+Brenda Thais Ribeiro dos Santos - RM: 561258 <br>
+Clara Barboza Costa - RM: 561490 <br>
+Lucas Santana Silva - RM: 566261 <br>
 Pedro Henrique Lamin Rodrigues - RM: 566379
 
 # Descrição do projeto
