@@ -8,7 +8,7 @@ Pedro Henrique Lamin Rodrigues - RM: 566379
 
 # Descrição do projeto
 
-Este projeto utiliza um ESP32 para monitorar em tempo real a velocidade, os batimentos cardíacos simulados, a aceleração e a temperatura de uma jogadora usando o sensor MPU6050. Os dados coletados são enviados automaticamente para a plataforma ThingSpeak para visualização e análise remota.
+Este projeto utiliza um ESP32 para monitorar em tempo real a velocidade, os batimentos cardíacos simulados, a aceleração e a temperatura de uma jogadora usando o sensor MPU6050. Os dados coletados são enviados automaticamente para a plataforma ThingSpeak para visualização e análise.
 
 ## Funcionalidades:
 
