@@ -23,5 +23,5 @@ Envio dos dados para o ThingSpeak através de conexão Wi-Fi.
 # Links externos
 
 https://wokwi.com/projects/441665534343702529 <br>
-https://thingspeak.mathworks.com/channels/3071670/private_show
+https://thingspeak.mathworks.com/channels/3071670/private_show <br>
 https://www.youtube.com/watch?v=_yhiGUqBBdc
